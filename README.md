@@ -1,0 +1,3 @@
+-  Hi, I’m @RandomIdiot
+-  I’m interested in something
+-  I’m currently learning something
