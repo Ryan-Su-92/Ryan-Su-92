@@ -1,3 +1,4 @@
 -  Hi, I’m @RandomIdiot
--  I’m interested in something
--  I’m currently learning something
+-  Hi, I’m @RandomIdiot who is interested in something
+-  Hi, I’m @RandomIdiot who is interested in something and is learning it
+- 
