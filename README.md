@@ -1,4 +1,1 @@
--  Hi, I’m @RandomIdiot
--  Hi, I’m @RandomIdiot who is interested in something
--  Hi, I’m @RandomIdiot who is interested in something and is learning it
-- 
+Im proud to say im considered a human
